@@ -1,0 +1,86 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Original author:
+% Rahul Chauhan (http://rahulchauhan.net)
+%
+% Original repository:
+% https://github.com/rahulworld/rahulworld-Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{rahulworld-resume}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth} 
+\begin{large}
+	\headername{Mareno Sæther}\\
+\end{large}
+Final Year (Bachelor Electrical Engineering)\\
+Electrical Engineering\\ 
+at NTNU \\ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Links} 
+\noindent\rule{5cm}{0.4pt}
+
+LinkedIn://  \href{https://www.linkedin.com/in/marenosaether/}{\custombold{marenosaether}} \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\noindent\rule{5cm}{0.4pt}
+\subsection{OS}
+MacOS, Windows
+\vspace{6pt}
+\subsection{Languages}
+English, Norwegian
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education} 
+\noindent\rule{5cm}{0.4pt}\\
+\datecolor{2018-2021}
+\subsection{Bachelor's degree in Electrical Engineering}
+NTNU \\
+\vspace{8pt}
+\datecolor{2014-2017}
+\subsection{High School}
+Bodin Videregående skole, BOD\\
+\sectionsep
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+% \descript{BS in Computer ence}
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill    \\
+\hspace*{0pt}\hfill Trondheim, Elgeseter gate 40B, Norge \\
+\hspace*{0pt}\hfill Mob.: +47 944 95 304 \\
+\hspace*{0pt}\hfill Email.:\textbf{\href{mailto:marenosaether@gmail.com}{marenosaether@gmail.com}} \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+\noindent\rule{12.5cm}{0.4pt}
+\datecolor{2017-2018} \runsubsection{Rema 1000}
+\descript{Tilkallingsvakt}
+\noindent
+\hspace{5em}%
+\begin{minipage}{0.85\textwidth\vspace{2pt}}
+Arbeid i kassen og utplassering av varer
+\end{minipage}
+\sectionsep
+
+\end{document}  \documentclass[]{article}
